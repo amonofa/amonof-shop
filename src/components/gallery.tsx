@@ -26,7 +26,7 @@ const Gallery = () => {
       <div className="flex flex-wrap w-1/2">
         <div className="md:p-2 p-1 w-full">
           <img alt="gallery" className="w-full h-full object-cover object-center block" 
-          src="http://cloudfront-eu-central-1.images.arcpublishing.com/rtl/POAZPUX6C4MKJFS3Q5Y5EOVY6E.jpg"/>
+          src="https://www.d8aspring.com/hubfs/Eye-on-Asia/20201130-parcel-paper-cartons-with-shopping-cart-logo-trolley-laptop-keyboard.jpg"/>
         </div>
         <div className="md:p-2 p-1 w-1/2">
           <img alt="gallery" className="w-full object-cover h-full object-center block" 
